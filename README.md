@@ -110,3 +110,8 @@ Contributions are welcome. Fork the repository, create a feature branch, commit 
 ## 📄 License
 
 This project is licensed under the MIT License.
+## 👩‍💻 Author
+
+**Saptha Preethi**
+
+GitHub: https://github.com/sapthapreethi-2006
