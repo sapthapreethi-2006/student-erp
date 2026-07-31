@@ -8,6 +8,7 @@ ERP Based Student Management System is a full-stack web application developed to
 - Simplify student administration
 - Reduce manual paperwork
 - Improve data accessibility
+- Centralize academic management
  
 - ## ✨ Features
 
