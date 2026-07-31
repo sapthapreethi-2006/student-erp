@@ -27,7 +27,7 @@ ERP Based Student Management System is a full-stack web application developed to
 - React.js
 - HTML5
 - CSS3
-- 
+- JavaScript
 
 ### Backend
 
