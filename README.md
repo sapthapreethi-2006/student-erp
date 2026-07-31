@@ -74,3 +74,6 @@ The backend provides REST APIs for:
 - Departments
 - Courses
 - Attendance
+## 🗄 Database
+
+The application uses MySQL to store student records, faculty details, course information, department details, and attendance records.
