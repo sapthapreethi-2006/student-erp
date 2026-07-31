@@ -85,3 +85,10 @@ The application uses MySQL to store student records, faculty details, course inf
 - Course Module
 - Attendance Module
 - Dashboard Module
+- ## 📸 Screenshots
+
+- Login Page
+- Dashboard
+- Student Management
+- Faculty Management
+- Attendance Module
