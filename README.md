@@ -107,3 +107,6 @@ The application uses MySQL to store student records, faculty details, course inf
 - ## 🤝 Contributing
 
 Contributions are welcome. Fork the repository, create a feature branch, commit your changes, and submit a pull request.
+## 📄 License
+
+This project is licensed under the MIT License.
