@@ -91,4 +91,9 @@ The application uses MySQL to store student records, faculty details, course inf
 - Dashboard
 - Student Management
 - Faculty Management
-- Attendance Module
+- Attendance Module ## 🔒 Security
+
+- User Authentication
+- Role-Based Authorization
+- Input Validation
+- Secure REST APIs
