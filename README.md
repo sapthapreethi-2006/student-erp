@@ -104,3 +104,6 @@ The application uses MySQL to store student records, faculty details, course inf
 - Mobile Application
 - Email Notifications
 - Report Generation
+- ## 🤝 Contributing
+
+Contributions are welcome. Fork the repository, create a feature branch, commit your changes, and submit a pull request.
