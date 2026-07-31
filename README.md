@@ -97,3 +97,10 @@ The application uses MySQL to store student records, faculty details, course inf
 - Role-Based Authorization
 - Input Validation
 - Secure REST APIs
+- ## 🚀 Future Enhancements
+
+- Parent Portal
+- Student Performance Analytics
+- Mobile Application
+- Email Notifications
+- Report Generation
