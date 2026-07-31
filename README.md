@@ -64,3 +64,13 @@ student-erp
 3. Update the application.properties file.
 4. Run the Spring Boot backend.
 5. Start the React frontend.
+## 📌 REST APIs
+
+The backend provides REST APIs for:
+
+- Authentication
+- Students
+- Faculty
+- Departments
+- Courses
+- Attendance
