@@ -32,7 +32,7 @@ ERP Based Student Management System is a full-stack web application developed to
 ### Backend
 
 - Java
-- 
+- Spring Boot
 
 ### Database
 
