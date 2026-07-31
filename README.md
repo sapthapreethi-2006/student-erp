@@ -44,3 +44,6 @@ ERP Based Student Management System is a full-stack web application developed to
 - VS Code
 - IntelliJ IDEA
 - Postman
+- ## 🏗 System Architecture
+
+The project follows a three-tier architecture consisting of the presentation layer, business logic layer, and database layer. The frontend communicates with the backend using REST APIs.
