@@ -36,3 +36,11 @@ ERP Based Student Management System is a full-stack web application developed to
 ### Database
 
 - MySQL
+- ## 🔧 Development Tools
+
+- Git
+- GitHub
+- Maven
+- VS Code
+- IntelliJ IDEA
+- Postman
